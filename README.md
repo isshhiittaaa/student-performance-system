@@ -172,12 +172,3 @@ npm run dev
 
 ---
 
-## 👥  Author
-
-Built by **Mehul Khanna**
-
-Crafted with ❤️, caffeine, and hundreds of test requests.
-
----
-
-
